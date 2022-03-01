@@ -1,3 +1,4 @@
+REM " SCRIPT NOT FINISHED YET "
 @echo off
 cd %~dp0
 cls
